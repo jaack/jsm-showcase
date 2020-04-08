@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/jsm-prototype/static/css/main.3aba485b.chunk.css",
+    "main.js": "/jsm-prototype/static/js/main.e7501cc3.chunk.js",
+    "main.js.map": "/jsm-prototype/static/js/main.e7501cc3.chunk.js.map",
+    "runtime-main.js": "/jsm-prototype/static/js/runtime-main.0cd343fd.js",
+    "runtime-main.js.map": "/jsm-prototype/static/js/runtime-main.0cd343fd.js.map",
+    "static/js/2.e3f14a30.chunk.js": "/jsm-prototype/static/js/2.e3f14a30.chunk.js",
+    "static/js/2.e3f14a30.chunk.js.map": "/jsm-prototype/static/js/2.e3f14a30.chunk.js.map",
+    "index.html": "/jsm-prototype/index.html",
+    "precache-manifest.24b4515183806e4c5fb81ce9fb4e48f9.js": "/jsm-prototype/precache-manifest.24b4515183806e4c5fb81ce9fb4e48f9.js",
+    "service-worker.js": "/jsm-prototype/service-worker.js",
+    "static/css/main.3aba485b.chunk.css.map": "/jsm-prototype/static/css/main.3aba485b.chunk.css.map",
+    "static/js/2.e3f14a30.chunk.js.LICENSE.txt": "/jsm-prototype/static/js/2.e3f14a30.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jsm-prototype/static/media/gilroylight.97a71bd2.woff2",
+    "static/media/rain.jpg": "/jsm-prototype/static/media/rain.a45f35dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd343fd.js",
+    "static/js/2.e3f14a30.chunk.js",
+    "static/css/main.3aba485b.chunk.css",
+    "static/js/main.e7501cc3.chunk.js"
+  ]
+}
